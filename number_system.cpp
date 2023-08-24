@@ -1,4 +1,7 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
+#include<math.h>
+#include<string>
 
 using namespace std;
 // Function to convert a number from a given base to decimal
